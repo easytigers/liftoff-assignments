@@ -25,7 +25,7 @@ of that stock (opening price, closing price, trading volume).
 * Other features: Daily inspiring quotes, Links to buying books to improve skills. 
 
 ### Technologies
-* C#
+* Java
 * Spring Boot
 * MySQL
 * Bootstrap
