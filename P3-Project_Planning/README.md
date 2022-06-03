@@ -7,8 +7,14 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
+* Register Page
+https://wireframe.cc/pro/pp/6dfb404f1554376#1
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+* Login Page
+https://wireframe.cc/pro/pp/6dfb404f1554376#wfhyyo90
+
+* Users Pick Stock
+https://wireframe.cc/pro/pp/6dfb404f1554376#y6xqv7zx
 
 ### Project Tracker
 
